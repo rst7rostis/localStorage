@@ -1,0 +1,16 @@
+.doits{
+	border: 1px dashed grey;
+	width: 37%;
+}
+.monitor{
+	width: 100%;
+	margin: 10px;
+}
+span[class^='delItem']{
+	display: block;
+	margin-left: -10px; 
+	width: 100%;
+	border-bottom: 2px dashed #ccc;
+	background-color: #e6e6e5;
+	line-height: 9pt;
+}
